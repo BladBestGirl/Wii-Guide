@@ -4,8 +4,8 @@ title: "Kirby TV Channel"
 
 {% include toc title="Table of Contents" %}
 
-The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24.
-Join their Discord server [here](https://discord.gg/seCnzxnE75).
+The Kirby TV Channel is controlled and operated by WiiLink24 (previously Striim Network, now merged), not RiiConnect24.
+Join their Discord server [here](https://discord.gg/reqUMqxu8D).
 {: .notice--warning}
 
 Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
@@ -19,21 +19,18 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 #### Instructions
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](yawmme)
 {: .notice--info}
 
 1. Download the executable for your architecture and OS.
-2. Launch the executable then press `1` twice to start the patching process.
-3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
-4. Move the `WAD` folder to the root of your SD Card.
-5. Put your SD card or USB drive in your Wii.
-6. Launch the Homebrew Channel on your Wii.
-7. Launch Wii Mod Lite.
-8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
-10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
-
-
+1. Launch the executable then press `1` twice to start the patching process.
+1. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
+1. Move the `WAD` folder to the root of your SD Card.
+1. Put your SD card or USB drive in your Wii.
+1. Launch the Homebrew Channel on your Wii.
+1. Launch YAWM ModMii Edition.
+1. Navigate to `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button twice to install it.
+1. When the WAD successfully installs, press the HOME button to exit the app.
 
 [Continue to RiiConnect24](riiconnect24)<br>
 RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.

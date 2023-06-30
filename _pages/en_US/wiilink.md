@@ -17,31 +17,31 @@ title: "WiiLink"
 
 ##### Section I - Patching WADs
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](yawmme)
 {: .notice--info}
 
 1. Download `WiiLink_Patcher_<OS Platform>_v1.X.X`, where `<OS Platform>` is either `Windows`, `macOS`, or `Linux`, depending on your operating system.
-2. Connect your SD Card or USB Drive to your computer. Make sure there is an `apps` folder on the root of the SD Card or USB Device in order for the patcher to automatically detect your SD Card or USB Device.
-3. To open the patcher on Windows, simply double-click on `WiiLink_Patcher_Windows_v1.X.X.exe`. 
+1. Connect your SD Card or USB Drive to your computer. Make sure there is an `apps` folder on the root of the SD Card or USB Device in order for the patcher to automatically detect your SD Card or USB Device.
+1. To open the patcher on Windows, simply double-click on `WiiLink_Patcher_Windows_v1.X.X.exe`. 
 
    On macOS and Linux, you'll need to follow these steps: 
    - First, give the file executable permissions by typing<br>`chmod +x WiiLink_Patcher_<OS Platform>_v1.X.X` in your terminal. Replacing<br>`<OS Platform>` with either `macOS` or `Linux`, depending on your operating system.
    - Then, run the patcher by typing `./WiiLink_Patcher_<OS Platform>_v1.X.X` in the same terminal window.
-4. If your portable storage device was detected successfully, you should see a message saying `SD Card detected`. If not, you'll need to manually select the location of your SD Card or USB Device.
-5. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink.
-6. Follow the on screen instructions to select which versions of the available channels you would like.
-7. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
-11. Launch the Homebrew Channel on your Wii.
-12. Launch Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-14. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
-    - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
+1. If your portable storage device was detected successfully, you should see a message saying `SD Card detected`. If not, you'll need to manually select the location of your SD Card or USB Device.
+1. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink.
+1. Follow the on screen instructions to select which versions of the available channels you would like.
+1. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
+1. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+1. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
+1. Put your SD card or USB drive in your Wii.
+1. Launch the Homebrew Channel on your Wii.
 
-16. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. Launch YAWM ModMii Edition.
+1. Navigate to the WiiLink_SPD `.wad` file, then press `A` twice to install it.
+  - If your Wii is Japanese and you would like to keep the original SPD, you may skip this.
+1. Navigate to each wad labelled `(WiiLink)` and press `+` on each of them.
+1. When all of them are selected, press A twice to install the WADs.
+1. When the WAD successfully install, press the HOME button to exit the app.
 
 Want to order Domino's Pizza with WiiLink's Food Delivery Channel?<br>[Follow this guide!](wiilink-demae-dominos)
 {: .notice--info}
