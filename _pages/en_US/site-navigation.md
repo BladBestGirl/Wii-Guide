@@ -67,6 +67,7 @@ sitemap: false
 - [USB Loader GX](usbloadergx)
 - [Wii Backup Manager](wiibackupmanager)
 - [WiiFlow](wiiflow)
+- [YAWM ModMii Edition](yawmme)
 
 **Wii mini**
 
