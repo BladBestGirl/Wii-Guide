@@ -32,6 +32,9 @@ Your Wii must be modded in order to perform this. If it isn't, then it's best to
 It is recommended to [make a NAND backup](bootmii) before and after performing this update.
 {: .notice--warning}
 
+You must [install Priiloader](priiloader) before proceeding with this guide.
+{: .notice--danger}
+
 1. Extract the .zip file for NUS Downloader Wii and open the application.
 1. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
 1. Make sure `Pack WAD` is checked.
