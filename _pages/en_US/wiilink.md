@@ -37,11 +37,11 @@ title: "WiiLink"
 1. Launch the Homebrew Channel on your Wii.
 
 1. Launch YAWM ModMii Edition.
-1. Navigate to the WiiLink_SPD `.wad` file, then press `A` twice to install it.
+1. Navigate to the `WiiLink_SPD.wad` file, then press `A` twice to install it.
   - If your Wii is Japanese and you would like to keep the original SPD, you may skip this.
-1. Navigate to each wad labelled `(WiiLink)` and press `+` on each of them.
+1. Navigate to each WAD labelled `(WiiLink)` and press `+` on each of them.
 1. When all of them are selected, press A twice to install the WADs.
-1. When the WAD successfully install, press the HOME button to exit the app.
+1. Once the WADs successfully install, press the HOME button to exit the app.
 
 Want to order Domino's Pizza with WiiLink's Food Delivery Channel?<br>[Follow this guide!](wiilink-demae-dominos)
 {: .notice--info}
