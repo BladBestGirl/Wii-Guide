@@ -34,3 +34,4 @@ This tutorial is only for Windows version of WiiWare Patcher.
 6. It's done! Patched WAD's are in the `wiimmfi-wads` folder.
 
 [Return to Wiimmfi installation page](wiimmfi#wiiware-patching)
+{: .notice--info}

@@ -35,9 +35,8 @@ title: "WiiLink"
 1. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
 1. Put your SD card or USB drive in your Wii.
 1. Launch the Homebrew Channel on your Wii.
-
 1. Launch YAWM ModMii Edition.
-1. Navigate to the `WiiLink_SPD.wad` file, then press `A` twice to install it.
+1. Navigate to the WiiLink_SPD `.wad` file, then press `A` twice to install it.
   - If your Wii is Japanese and you would like to keep the original SPD, you may skip this.
 1. Navigate to each WAD labelled `(WiiLink)` and press `+` on each of them.
 1. When all of them are selected, press A twice to install the WADs.

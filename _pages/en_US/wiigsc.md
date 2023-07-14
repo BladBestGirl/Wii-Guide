@@ -27,7 +27,8 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 1. Select the path to the ISO or WBFS file on your USB drive or SD card, and select the USB Loader you use. The other options should be fine the way thy are.
-1. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+1. Copy the generated `.wad` file to a folder named `WAD` on your SD card.
+1. Install the generated WAD with a WAD Manager. We recommend YAWM ModMii Edition.
 
 If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. <br>
 Turn off your Wii, then hold down the RESET button down and turn on your Wii. <br>
