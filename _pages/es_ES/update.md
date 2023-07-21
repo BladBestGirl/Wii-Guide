@@ -9,6 +9,9 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
+It is much safer to use [ModMii](https://modmii.github.io) (Windows only) to update your Wii to 4.3.
+{: .notice--warning}
+
 #### Requisitos
 
 * Una tarjeta SD o unidad USB
@@ -49,16 +52,16 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 En esta aplicación usarás la cruz de control para desplazarte por las opciones.
 {: .notice--info}
 
-1. Inserta la tarjeta SD o unidad USB en tu Wii.
+1. Put your SD card or USB drive in your Wii.
 2. Inicia el Canal Homebrew en tu Wii.
-3. Inicie Wii Mod Lite.
+3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
+**Installing a Wii Menu WAD removes Priiloader.** <br> **Do not return to the Wii Menu yet, otherwise you could BRICK.** <br> **[Install Priiloader IMMEDIATELY!!](priiloader)** <br>
 {: .notice--danger}
 
 [Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.

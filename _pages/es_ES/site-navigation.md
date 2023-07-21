@@ -9,8 +9,8 @@ sitemap: false
 {% capture notice-1 %}
 **Destacados**
 
-- [Instalar cIOS](cios)
 - [Kirby TV Channel](kirby-tv)
+- [Instalar cIOS d2x](cios)
 - [RiiConnect24](riiconnect24)
 - [WiiLink](wiilink)
 - [Wiimmfi](wiimmfi)
@@ -44,6 +44,7 @@ sitemap: false
 - [Homebrew Channel](hbc)
 - [LetterBomb](letterbomb)
 - [Priiloader](priiloader)
+- [Relaunching the HackMii Installer](hackmii)
 - [str2hax](str2hax)
 - [Instalar WADs con Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)

@@ -6,6 +6,10 @@ title: "WiiLink"
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
 
+The Kirby TV Channel is back! <br>
+If you installed it previously, please follow the instructions to update it.
+{: .notice--success}
+
 #### What you need
 
 - An SD card or USB drive

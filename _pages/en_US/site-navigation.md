@@ -9,8 +9,8 @@ sitemap: false
 {% capture notice-1 %}
 **Featured**
 
-- [cIOS](cios)
 - [Kirby TV Channel](kirby-tv)
+- [cIOS](cios)
 - [RiiConnect24](riiconnect24)
 - [WiiLink](wiilink)
 - [Wiimmfi](wiimmfi)
@@ -44,6 +44,7 @@ sitemap: false
 - [Homebrew Channel](hbc)
 - [LetterBomb](letterbomb)
 - [Priiloader](priiloader)
+- [Relaunching the HackMii Installer](hackmii)
 - [str2hax](str2hax)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)

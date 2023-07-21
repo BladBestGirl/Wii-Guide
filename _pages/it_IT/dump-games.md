@@ -16,7 +16,7 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 - An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Instructions
+#### Istruzioni
 
 ##### Section I - Downloading/Installing
 
@@ -31,7 +31,7 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 1. Set it as shown on the screen below.
 If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
 {: .notice--info}
-![Settings](/images/CleanRip/6.png)
+![Impostazioni](/images/CleanRip/6.png)
 
 1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copying](/images/CleanRip/7.png)
 </div>
@@ -46,7 +46,7 @@ If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.o
 Your Wii and your computer must be connected to one local network.
 {: .notice--warning}
 
-#### Instructions
+#### Istruzioni
 
 ##### Section I - Downloading/Installing
 
@@ -73,10 +73,13 @@ If you dumped the disc on a FAT32 formatted, device, you should've got at least 
 
 ## Windows
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Open up a Command Prompt window.
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+1. Copy all the files that share the same name and end with `.partX.iso` into an empty folder on your computer.
+1. Open the folder in File Explorer.
+1. While holding Shift, right click on an empty space within the folder.
+1. Select "Open PowerShell window here".
+1. In the new window that appears, type `cmd` and press enter.
+1. Finally, type `copy /b *.part?.iso game.iso` and press enter.
+1. Wait until it finishes. You can confirm this when "1 file(s) copied." appears.
 
 ## macOS/Linux
 

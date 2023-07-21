@@ -29,6 +29,9 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 If your Wii has an Internet connection, you may skip this section. <br/>
 However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
+{: .notice--warning}
+
+If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
 {: .notice--info}
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
@@ -56,10 +59,10 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/d2x_v11_248.png)
-
 If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
+
+![Install cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
@@ -71,7 +74,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_249.png)
+![Install cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
@@ -124,7 +127,7 @@ To change the cIOS used for a specific game, follow these instructions:
 1. Scroll down to `Game IOS`.
 1. Enter the IOS slot to use.
     - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Press OK and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Select the game that isn't working.
@@ -145,3 +148,28 @@ We have many other tutorials that you might like.
 
 You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
+
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
